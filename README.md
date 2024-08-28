@@ -31,12 +31,12 @@ Role: Bhoonidhi is a GIS software developed by the National Remote Sensing Centr
 4. Copernicus (Sentinel Hub):
 Role: Copernicus, specifically through the Sentinel Hub, is part of the European Union's Earth Observation program. It provides access to a wealth of Sentinel satellite data, making it valuable for monitoring land changes at a global scale.
 
-### Indices Calculation
+## Indices Calculation
 
 QGIS does not have built-in tools for calculating change detection indices directly, but you can achieve this using raster calculator or plugins. Common indices for change detection include :
 index‐based built‐up index (IBI) soil adjusted vegetation index (SAVI) normalized difference built‐up index (NDBI) build-up index (BUI) new built-up index (NBI) Built-up Area Extraction Index (BAEI) Urban Index (UI)
 
-### Classification
+## Classification
 
 Land Use and Land Cover (LULC) change detection involves analyzing changes in the types of land use and land cover over time. There are several classification methods used for LULC change detection, each with its advantages and limitations. Here are some common methods:
 
