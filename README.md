@@ -36,7 +36,7 @@ Role: Copernicus, specifically through the Sentinel Hub, is part of the European
 QGIS does not have built-in tools for calculating change detection indices directly, but you can achieve this using raster calculator or plugins. Common indices for change detection include :
 index‐based built‐up index (IBI) soil adjusted vegetation index (SAVI) normalized difference built‐up index (NDBI) build-up index (BUI) new built-up index (NBI) Built-up Area Extraction Index (BAEI) Urban Index (UI)
 
-## Classification
+### Classification
 
 Land Use and Land Cover (LULC) change detection involves analyzing changes in the types of land use and land cover over time. There are several classification methods used for LULC change detection, each with its advantages and limitations. Here are some common methods:
 
