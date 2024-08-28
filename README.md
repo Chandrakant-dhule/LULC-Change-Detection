@@ -7,6 +7,7 @@ Land Use and Land Cover (LULC) Change Detection is a critical field of study wit
 ## Project Aspect
 
 1.Study Area Selection:Choose the geographical area of interest based on the project objectives. Consider factors such as size, ecological diversity, and the relevance of the area to the issues being addressed.
+
 2.Data Sources:Identify and acquire appropriate data sources, such as satellite imagery, aerial photographs, or LiDAR data. Consider the spatial and temporal resolution of the data based on the project requirements.
 3.Data Preprocessing:Conduct preprocessing steps, including image calibration, atmospheric correction, and geometric correction, to ensure the accuracy and reliability of the data.
 4.Change Detection Methods:Select appropriate change detection methods to compare different time periods. This may involve pixel-based or object-based change detection approaches.
