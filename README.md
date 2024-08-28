@@ -9,23 +9,26 @@ Land Use and Land Cover (LULC) Change Detection is a critical field of study wit
 1.Study Area Selection:Choose the geographical area of interest based on the project objectives. Consider factors such as size, ecological diversity, and the relevance of the area to the issues being addressed.
 
 2.Data Sources:Identify and acquire appropriate data sources, such as satellite imagery, aerial photographs, or LiDAR data. Consider the spatial and temporal resolution of the data based on the project requirements.
+
 3.Data Preprocessing:Conduct preprocessing steps, including image calibration, atmospheric correction, and geometric correction, to ensure the accuracy and reliability of the data.
+
 4.Change Detection Methods:Select appropriate change detection methods to compare different time periods. This may involve pixel-based or object-based change detection approaches.
+
 5.Integration with Other Data:Consider integrating LULC data with other relevant datasets, such as socio-economic data or climate data, to provide a more comprehensive understanding of the factors influencing land use changes.
 
 ## Software Use:
 The software requirements are as follows :
 
-QGIS (Quantum GIS):
+1.QGIS (Quantum GIS):
 Role: QGIS is an open-source Geographic Information System (GIS) software that provides powerful tools for spatial analysis, mapping, and data visualization.
 
-Google Earth Pro:
+2.Google Earth Pro:
 Role: Google Earth Pro is a user-friendly and widely accessible tool that allows users to explore and analyze geospatial data globally. 
 
-Bhoonidhi:
+3.Bhoonidhi:
 Role: Bhoonidhi is a GIS software developed by the National Remote Sensing Centre (NRSC) in India. It is specifically designed for land management and natural resource monitoring, making it suitable for LULC change detection in the Indian context.
 
-Copernicus (Sentinel Hub):
+4.Copernicus (Sentinel Hub):
 Role: Copernicus, specifically through the Sentinel Hub, is part of the European Union's Earth Observation program. It provides access to a wealth of Sentinel satellite data, making it valuable for monitoring land changes at a global scale.
 
 ### Indices Calculation
