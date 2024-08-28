@@ -45,6 +45,5 @@ Land Use and Land Cover (LULC) change detection involves analyzing changes in th
 2.Unsupervised Classification: In this method, the algorithm identifies clusters of similar pixels without the need for predefined training samples. The user specifies the number of classes desired, and the algorithm groups pixels with similar spectral characteristics. Changes in cluster membership between different time periods indicate land cover change.
 
 
-### Conclusion
-
+## Conclusion
 In conclusion, this LULC Change Detection project has provided valuable insights into the dynamic nature of the studied landscape, contributing to a deeper understanding of land use changes over time. Through the integration of advanced geospatial technologies and comprehensive analysis methodologies, we have gained significant knowledge that has implications for environmental monitoring, resource management, and sustainable development.
