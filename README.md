@@ -2,7 +2,7 @@
 
 ## About
 
-Land Use and Land Cover (LULC) Change Detection is a critical field of study within the realm of environmental monitoring and geospatial analysis. It focuses on tracking alterations in the way land is utilized and the evolving patterns of surface cover over specific time intervals. For that i use the QGIS Software[QGIS](https://qgis.org/download/).
+Land Use and Land Cover (LULC) Change Detection is a critical field of study within the realm of environmental monitoring and geospatial analysis. It focuses on tracking alterations in the way land is utilized and the evolving patterns of surface cover over specific time intervals. For that i use the QGIS Software [QGIS](https://qgis.org/download/).
 
 ## Project Aspect
 
@@ -14,6 +14,7 @@ Land Use and Land Cover (LULC) Change Detection is a critical field of study wit
 
 ## Software Use
 The software requirements are as follows :
+
 QGIS (Quantum GIS):
 Role: QGIS is an open-source Geographic Information System (GIS) software that provides powerful tools for spatial analysis, mapping, and data visualization.
 
@@ -28,14 +29,7 @@ Role: Copernicus, specifically through the Sentinel Hub, is part of the European
 
 ### Indices Calculation
 QGIS does not have built-in tools for calculating change detection indices directly, but you can achieve this using raster calculator or plugins. Common indices for change detection include :
-
-index‐based built‐up index (IBI) 
-soil adjusted vegetation index (SAVI)
-normalized difference built‐up index (NDBI) 
-build-up index (BUI)
-new built-up index (NBI)
-Built-up Area Extraction Index (BAEI)
-Urban Index (UI)
+index‐based built‐up index (IBI) soil adjusted vegetation index (SAVI) normalized difference built‐up index (NDBI) build-up index (BUI) new built-up index (NBI) Built-up Area Extraction Index (BAEI) Urban Index (UI)
 
 ## Classification
 Land Use and Land Cover (LULC) change detection involves analyzing changes in the types of land use and land cover over time. There are several classification methods used for LULC change detection, each with its advantages and limitations. Here are some common methods:
@@ -47,6 +41,4 @@ Land Use and Land Cover (LULC) change detection involves analyzing changes in th
 
 ### Conclusion
 
-In conclusion, this LULC Change Detection project has provided valuable insights into the dynamic nature of the studied landscape, contributing to a deeper understanding of land use changes over time. 
-Through the integration of advanced geospatial technologies and comprehensive analysis methodologies, we have gained significant knowledge that has implications for environmental monitoring, resource management, and sustainable development.
-As we conclude this phase of the project, we recognize the need for ongoing research, collaboration, and data-sharing initiatives to address emerging challenges and contribute to the global discourse on sustainable land use practices.
+In conclusion, this LULC Change Detection project has provided valuable insights into the dynamic nature of the studied landscape, contributing to a deeper understanding of land use changes over time. Through the integration of advanced geospatial technologies and comprehensive analysis methodologies, we have gained significant knowledge that has implications for environmental monitoring, resource management, and sustainable development.As we conclude this phase of the project, we recognize the need for ongoing research, collaboration, and data-sharing initiatives to address emerging challenges and contribute to the global discourse on sustainable land use practices.
