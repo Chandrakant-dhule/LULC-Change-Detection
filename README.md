@@ -19,16 +19,16 @@ Land Use and Land Cover (LULC) Change Detection is a critical field of study wit
 ## Software Use:
 The software requirements are as follows :
 
-1.QGIS (Quantum GIS):
+1. QGIS (Quantum GIS):
 Role: QGIS is an open-source Geographic Information System (GIS) software that provides powerful tools for spatial analysis, mapping, and data visualization.
 
-2.Google Earth Pro:
+2. Google Earth Pro:
 Role: Google Earth Pro is a user-friendly and widely accessible tool that allows users to explore and analyze geospatial data globally. 
 
-3.Bhoonidhi:
+3. Bhoonidhi:
 Role: Bhoonidhi is a GIS software developed by the National Remote Sensing Centre (NRSC) in India. It is specifically designed for land management and natural resource monitoring, making it suitable for LULC change detection in the Indian context.
 
-4.Copernicus (Sentinel Hub):
+4. Copernicus (Sentinel Hub):
 Role: Copernicus, specifically through the Sentinel Hub, is part of the European Union's Earth Observation program. It provides access to a wealth of Sentinel satellite data, making it valuable for monitoring land changes at a global scale.
 
 ### Indices Calculation
